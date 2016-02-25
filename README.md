@@ -9,6 +9,7 @@ This repository is only set up for self-learning
 	> npm init
 	> npm install react react-dom --save
 	> npm install babel-loader babel-core babel-preset-es2015 babel-	preset-react webpack webpack-dev-server --save-dev
+	> bower install bootstrap --save
 	```
 
 2. Configure `webpack.config.js`
